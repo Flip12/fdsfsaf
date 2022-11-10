@@ -1,0 +1,13 @@
+{
+  "author": "Necron",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "eris": "^0.17.1",
+    "node-fetch": "^2.6.7",
+    "rimraf": "^3.0.2",
+    "st.db": "^4.0.7",
+    "ts-node": "^10.9.1"
+  }
+}
